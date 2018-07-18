@@ -1,0 +1,30 @@
+@media (min-width: 768px) {
+    html {
+      font-size: 16px;
+    }
+
+    
+  }
+
+  body #fifa {
+      margin-top: 10px;
+      text-align: center;
+  }
+
+  body #fifa span {
+      color: rgb(9, 68, 163);
+      font-weight: bolder;
+
+  }
+
+  ul li {
+    list-style-type: none;
+  }
+
+  .links {
+      color: rgb(89, 142, 241);
+  }
+
+  .center {
+      text-align: center;
+  }
