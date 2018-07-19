@@ -62,12 +62,22 @@
     width: 100%;
 }
 
+thead td{
+    text-align: center;
+    color: blue;
+    font-weight: bolder;
+}
+
 td, th {
     border: 1px solid #dddddd;
-    text-align: left;
+    text-align: center;
     padding: 8px;
 }
 
 tr:nth-child(even) {
     background-color: #dddddd;
+}
+
+sup {
+    color: red;
 }
