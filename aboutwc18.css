@@ -21,10 +21,37 @@
     list-style-type: none;
   }
 
-  .links {
-      color: rgb(89, 142, 241);
-  }
-
   .center {
       text-align: center;
+  }
+
+  .top-nav {
+      background-color: rgb(27, 14, 83);
+  }
+
+  a {
+        color: red;
+  }
+
+  a :link {
+      color: green;
+  }
+
+  a :visited {
+      color: gold;
+  }
+
+  a :hover {
+      color: white;
+  }
+
+  a :active {
+      color: fuchsia;
+  }
+
+  #topic {
+      font-family: Arial, Helvetica, sans-serif;
+      color: pink;
+      margin-top: 14px;
+      padding: 0px;
   }
