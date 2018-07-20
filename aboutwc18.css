@@ -2,65 +2,63 @@
     html {
       font-size: 16px;
     }
-
-    
   }
 
 body {
     background-color: rgb(240, 240, 240);
 }
 
-  body #fifa {
-      margin-top: 10px;
-      text-align: center;
-  }
+body #fifa {
+    margin-top: 10px;
+    text-align: center;
+}
 
-  body #fifa span {
-      color: rgb(9, 68, 163);
-      font-weight: bolder;
+body #fifa span {
+    color: rgb(9, 68, 163);
+    font-weight: bolder;
 
-  }
+}
 
-  ul li {
-    list-style-type: none;
-  }
+ul li {
+list-style-type: none;
+}
 
-  .center {
-      text-align: center;
-  }
+.center {
+    text-align: center;
+}
 
-  .top-nav {
-      background-color: rgb(27, 14, 83);
-  }
+.top-nav {
+    background-color: rgb(27, 14, 83);
+}
 
-  a {
-        color: red;
-  }
+a {
+    color: red;
+}
 
-  a :link {
-      color: green;
-  }
+a :link {
+    color: green;
+}
 
-  a :visited {
-      color: gold;
-  }
+a :visited {
+    color: gold;
+}
 
-  a :hover {
-      color: white;
-  }
+a :hover {
+    color: white;
+}
 
-  a :active {
-      color: fuchsia;
-  }
+a :active {
+    color: fuchsia;
+}
 
-  #topic {
-      font-family: Arial, Helvetica, sans-serif;
-      color: pink;
-      margin-top: 14px;
-      padding: 0px;
-  }
+#topic {
+    font-family: Arial, Helvetica, sans-serif;
+    color: pink;
+    margin-top: 14px;
+    padding: 0px;
+}
 
-  table {
+table {
     font-family: arial, sans-serif;
     border-collapse: collapse;
     width: 100%;
@@ -88,20 +86,25 @@ sup {
 
 .container {
     max-width: 960px;
-  }
-  
-  .card-deck .card {
+}
+
+.card-deck .card {
     min-width: 220px;
-  }
-  
-  .box-shadow { box-shadow: 0 .25rem .75rem rgba(0, 0, 0, .05); }
+}
 
-  .card-body {
-      padding: 0px;
-      margin: 0px;
-  }
+.box-shadow { box-shadow: 0 .25rem .75rem rgba(0, 0, 0, .05); }
 
-  .nation {
-      color: rgb(27, 14, 83);
-      font-weight: bold;
-  }
+.card-body {
+    padding: 0px;
+    margin: 0px;
+}
+
+.nation {
+    color: rgb(27, 14, 83);
+    font-weight: bold;
+}
+
+#about {
+    margin-top: 50px;
+    padding: 20px;
+}
