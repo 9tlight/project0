@@ -109,3 +109,10 @@ sup {
     margin-top: 50px;
     padding: 20px;
 }
+
+.about {
+    background-color: rgb(196, 193, 197);
+    margin-top: 50px;
+    padding: 20px;
+    color: rgb(39, 0, 214);
+}
