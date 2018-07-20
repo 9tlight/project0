@@ -29,6 +29,7 @@ list-style-type: none;
 
 .top-nav {
     background-color: rgb(27, 14, 83);
+    padding: 20px;
 }
 
 a {
