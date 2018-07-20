@@ -81,3 +81,23 @@ tr:nth-child(even) {
 sup {
     color: red;
 }
+
+.container {
+    max-width: 960px;
+  }
+  
+  .card-deck .card {
+    min-width: 220px;
+  }
+  
+  .box-shadow { box-shadow: 0 .25rem .75rem rgba(0, 0, 0, .05); }
+
+  .card-body {
+      padding: 0px;
+      margin: 0px;
+  }
+
+  .nation {
+      color: rgb(27, 14, 83);
+      font-weight: bold;
+  }
