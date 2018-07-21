@@ -1,0 +1,38 @@
+$font-stack:  Arial, Helvetica, sans-serif;
+$topic-color: pink;
+
+%color-shared {
+    background-color: rgb(27, 14, 83);
+  }
+
+#topic {
+    font-family: $font-stack;
+    color: $topic-color;
+    margin-top: 14px;
+    padding: 0px;
+}
+
+body {
+    #fifa {
+        margin-top: 10px;
+        text-align: center;
+        span {
+            color: rgb(9, 68, 163);
+            font-weight: bolder;
+        }
+    }
+}
+
+ul {
+    li {
+        list-style-type: none;
+    }
+}
+
+.nation {
+    @extend %color-shared;
+}
+
+.top-nav {
+    @extend %color-shared;
+}
