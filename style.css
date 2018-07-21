@@ -1,0 +1,25 @@
+.top-nav, .nation {
+  background-color: #1b0e53;
+}
+
+#topic {
+  font-family: Arial, Helvetica, sans-serif;
+  color: pink;
+  margin-top: 14px;
+  padding: 0px;
+}
+
+body #fifa {
+  margin-top: 10px;
+  text-align: center;
+}
+body #fifa span {
+  color: #0944a3;
+  font-weight: bolder;
+}
+
+ul li {
+  list-style-type: none;
+}
+
+/*# sourceMappingURL=style.css.map */
